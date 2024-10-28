@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nta/static/css/main.e8c2addb.css",
+    "main.js": "/nta/static/js/main.eb8d2758.js",
+    "static/js/453.09b4f0a8.chunk.js": "/nta/static/js/453.09b4f0a8.chunk.js",
+    "index.html": "/nta/index.html",
+    "main.e8c2addb.css.map": "/nta/static/css/main.e8c2addb.css.map",
+    "main.eb8d2758.js.map": "/nta/static/js/main.eb8d2758.js.map",
+    "453.09b4f0a8.chunk.js.map": "/nta/static/js/453.09b4f0a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c2addb.css",
+    "static/js/main.eb8d2758.js"
+  ]
+}
